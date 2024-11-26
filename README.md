@@ -20,5 +20,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmen....](https://www.frontendmentor.io/solutions/newsletter-sign-up-form-with-success-message-solution-B0AejwmBLQ)
+- Live Site URL: [https://hummingcoder.githu....](https://hummingcoder.github.io/Newsletter-sign-up-form-with-success-message-/)
